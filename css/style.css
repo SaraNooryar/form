@@ -1,0 +1,149 @@
+.mydiv {
+  background-color: whitesmoke;
+  display: inline-block;
+  float: left;
+  width: 500px;
+  height: 520px;
+  padding-left: 20px;
+  margin-left: 160px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.my-first-paragraph {
+  font-size: 27px;
+  font-family: sans-serif;
+  position: absolute;
+  margin-top: 10px;
+}
+
+.nametxt {
+  position: absolute;
+  margin-top: 70px;
+}
+
+.emailtxt {
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 237px;
+}
+
+.subjecttxt {
+  position: absolute;
+  margin-top: 120px;
+}
+
+.mytextarea {
+  position: absolute;
+  margin-top: 170px;
+}
+
+.mybutton {
+  position: absolute;
+  margin-top: 400px;
+  background-color: rgba(61, 137, 247, 255);
+  border: none;
+}
+
+.second-div {
+  float: left;
+  margin-top: 35px;
+  width: 400px;
+  height: 540px;
+  background-color: rgba(61, 137, 247, 255);
+}
+
+.mytext {
+  color: white;
+  font-family: sans-serif;
+  margin-left: 25px;
+}
+
+.addrestxt {
+  color: white;
+  font-family: sans-serif;
+  position: absolute;
+  margin-top: -5px;
+  margin-left: 60px;
+  font-size: 18px;
+}
+
+.mytxt {
+  color: white;
+  font-family: sans-serif;
+  position: absolute;
+  margin-left: 140px;
+  margin-top: -2px;
+  font-size: 13px;
+}
+
+.mysectxt {
+  color: white;
+  font-family: sans-serif;
+  position: absolute;
+  margin-left: 60px;
+  margin-top: 20px;
+  font-size: 13px;
+}
+
+.mythirdtxt {
+  color: white;
+  font-family: sans-serif;
+  position: absolute;
+  margin-left: 60px;
+  margin-top: 40px;
+  font-size: 13px;
+}
+
+.phonetxt {
+  color: white;
+  font-family: sans-serif;
+  position: absolute;
+  margin-top: 90px;
+  margin-left: 60px;
+  font-size: 18px;
+}
+
+.text {
+  color: white;
+  font-family: sans-serif;
+  position: absolute;
+  margin-top: 94px;
+  margin-left: 130px;
+  font-size: 13px;
+}
+
+.email {
+  color: white;
+  font-family: sans-serif;
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 60px;
+  font-size: 18px;
+}
+
+.emailtext {
+  color: white;
+  font-family: sans-serif;
+  position: absolute;
+  margin-top: 153px;
+  margin-left: 120px;
+  font-size: 13px;
+}
+.website {
+  color: white;
+  font-family: sans-serif;
+  position: absolute;
+  margin-top: 210px;
+  margin-left: 60px;
+  font-size: 18px;
+}
+
+.websitetext {
+  color: white;
+  font-family: sans-serif;
+  position: absolute;
+  margin-top: 212px;
+  margin-left: 140px;
+  font-size: 13px;
+}
